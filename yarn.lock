@@ -3875,6 +3875,11 @@ extsprintf@^1.2.0:
   resolved "https://registry.nlark.com/extsprintf/download/extsprintf-1.4.0.tgz#e2689f8f356fad62cca65a3a91c5df5f9551692f"
   integrity sha1-4mifjzVvrWLMplo6kcXfX5VRaS8=
 
+fancy-components@^0.0.21:
+  version "0.0.21"
+  resolved "https://registry.yarnpkg.com/fancy-components/-/fancy-components-0.0.21.tgz#1ee8bedf45676d18b722aa755ceb57e7a10c4785"
+  integrity sha512-rvKrWYUSRpYe8V0cf1F0XvqOt7zlZidceh6/AAYZntDOzbU2c8PeZD73pWA+C2lm/1SSVwAZ8xriXcb5GYyJAQ==
+
 fast-deep-equal@^3.1.1:
   version "3.1.3"
   resolved "https://registry.npm.taobao.org/fast-deep-equal/download/fast-deep-equal-3.1.3.tgz#3a7d56b559d6cbc3eb512325244e619a65c6c525"
